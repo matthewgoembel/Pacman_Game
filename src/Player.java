@@ -14,7 +14,7 @@ import java.util.Scanner;
  * only 1 move at a time.
  */
 
-public class HW6 {
+public class Player {
    public static void main (final String[] args) {
       try {
          // Read input from a file specified in the command line arguments
